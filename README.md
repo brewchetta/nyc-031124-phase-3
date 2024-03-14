@@ -1,6 +1,6 @@
 # NYC 031124 Phase 3
 
-How this works:
+## How this works:
 
 Included in this readme are links to each of the repositories we'll be using.
 
