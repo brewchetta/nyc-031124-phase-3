@@ -9,105 +9,48 @@ Before each lecture, navigate to the proper repository and run your normal fork 
 ## Week One
 
 ### Day One
+[Python Fundamentals & Debugging](#)
 
-Morning:
-Python Fundamentals & Debugging
-
-Afternoon:
-Python Data Structures
+[Python Data Structures](#)
 
 ### Day Two
 
-Morning:
-Intro to Object Oriented Programming
+[Intro to Object Oriented Programming](#)
 
 ### Day Three
 
-Morning:
-Object Oriented Programming Inheritance and Class Methods
+[Object Oriented Programming Inheritance and Class Methods](#)
 
 ### Day Four
 
-Morning:
-Intro to SQL
+[Intro to SQL](#)
 
-Afternoon:
-SQL Relationships
+[SQL Relationships](#)
 
 ### Day Five
-Morning:
-Object Relationships in Python
+
+[Object Relationships in Python](#)
 
 ## Week Two
 
 ### Day One
 
-Morning:
-Week One Review
+[Week One Review](#)
 
 ### Day Two
 
-Morning:
-Intro to ORMs
+[Intro to ORMs](#)
 
 ### Day Three
 
-Morning:
-Phase 3 Project Prep
-
-### Day Four
-
-
-### Day Five
-
-Morning:
-Work on Projects
-
-Afternoon:
-Work on Projects
+[Phase 3 Project Prep](#)
 
 ## Week Three
 
 ### Day One
 
-Morning:
-Intro to SQLAlchemy
+[Intro to SQLAlchemy](#)
 
-Afternoon:
-Work on Projects
-
-### Day Two
-
-Morning:
-Work on Projects
-
-Afternoon:
-Work on Projects
-
-### Day Three
-
-Morning:
-Work on Projects
-
-Afternoon:
-Work on Projects
-
-### Day Four
-
-Morning:
-Work on Projects
-
-Afternoon:
-Work on Projects
-
-### Day Five
-
-Morning:
-Project Presentations
-
-Afternoon:
-Phase 4 Prep
-
-## Memes Go Here
+## Welcome to Python!
 
 !["the best way to learn a language is to speak to natives", "man speaks with live python"](assets/learning-python.jpeg)
