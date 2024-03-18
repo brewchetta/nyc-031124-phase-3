@@ -1,5 +1,7 @@
 # NYC 031124 Phase 3
 
+!["the best way to learn a language is to speak to natives", "man speaks with live python"](assets/learning-python.jpeg)
+
 ## How this works:
 
 Included in this readme are links to each of the repositories we'll be using.
@@ -33,7 +35,3 @@ Before each lecture, navigate to the proper repository and run your normal fork 
 ## Week Three
 
 [Intro to SQLAlchemy](https://github.com/brewchetta/031124-ph3-09-intro-to-sqlalchemy)
-
-## Welcome to Python!
-
-!["the best way to learn a language is to speak to natives", "man speaks with live python"](assets/learning-python.jpeg)
