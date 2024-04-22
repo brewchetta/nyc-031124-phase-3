@@ -12,7 +12,7 @@ Before each lecture, navigate to the proper repository and run your normal fork 
 
 [Python Fundamentals & Debugging](https://github.com/brewchetta/031124-ph3-01-python-debugging)
 
-[Python Data Structures](https://github.com/brewchetta/031124-ph3-02-python-data-structures)
+[OPTIONAL: Python Data Structures](https://github.com/brewchetta/031124-ph3-02-python-data-structures)
 
 [Intro to Object Oriented Programming](https://github.com/brewchetta/031124-ph3-03-intro-to-oop)
 
