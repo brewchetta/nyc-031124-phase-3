@@ -24,8 +24,6 @@ Before each lecture, navigate to the proper repository and run your normal fork 
 
 [Object Relationships in Python](https://github.com/brewchetta/031124-ph3-07-object-relationships)
 
-[Week One Review](#)
-
 ## Week Two
 
 [Intro to ORMs](https://github.com/brewchetta/031124-ph3-08-building-orms)
